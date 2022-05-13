@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-imagemagick
+target: convert
+
+cmds:
+  - cmd: /usr/local/bin/convert @@ out.png
+    filepath: /test.jpg
